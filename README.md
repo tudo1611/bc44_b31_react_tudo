@@ -1,1 +1,1 @@
-https://vercel.com/new/success?developer-id=&external-id=&redirect-url=&branch=master&deploymentUrl=bc44-b31-react-tudo-h4oeeybfm-tudo1611-gmailcom.vercel.app&projectName=bc44-b31-react-tudo&s=https%3A%2F%2Fgithub.com%2Ftudo1611%2Fbc44_b31_react_tudo&gitOrgLimit=&hasTrialAvailable=1&totalProjects=1
+https://bc44-b31-react-tudo.vercel.app/
