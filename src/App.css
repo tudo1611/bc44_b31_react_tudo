@@ -1,3 +1,51 @@
+body {
+  background-image: url("/public/img/background.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+  z-index: -10;
+}
+h3 {
+  color: white;
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 30px;
+  text-align: center;
+}
+.glass1 {
+  width: 16%;
+  position: absolute;
+  top: 103px;
+  right: 90px;
+}
+.glass2 {
+  width: 16%;
+  position: absolute;
+  top: 103px;
+  left: 90px;
+}
+.model__1 {
+  width: 30%;
+  position: absolute;
+  top: 50px;
+  right: 50px;
+}
+.model__2 {
+  width: 30%;
+  position: absolute;
+  top: 50px;
+  left: 50px;
+}
+.card {
+  cursor: pointer;
+}
+.listPrd {
+  position: absolute;
+  /* top: 50%; */
+  top: 500px;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
 .App {
   text-align: center;
 }
