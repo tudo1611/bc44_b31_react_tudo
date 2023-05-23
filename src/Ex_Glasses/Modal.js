@@ -8,12 +8,18 @@ export default class Modal extends Component {
           <div className="row">
             <div className="col-6">
               <img className="model__1" src="./img/model.jpg" alt="" />
-              <img className="glass1" src="./img/v1.png" alt="" />
+              <img
+                className="glass1"
+                style={{ opacity: "0.4" }}
+                src="./img/v1.png"
+                alt=""
+              />
             </div>
             <div className="col-6">
               <img className="model__2" src="./img/model.jpg" alt="" />
               <img
                 className="glass2"
+                style={{ opacity: "0.4" }}
                 src={this.props.selectedGlasses.url}
                 alt=""
               />
